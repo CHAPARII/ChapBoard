@@ -6,18 +6,14 @@ My this keyboard is equiped with 89 keys, 1 rotary encoder switch and 0.91" OLED
 
 # Image
 
-<img width="1331" height="750" alt="Screenshot 2026-03-28 140949" src="https://github.com/user-attachments/assets/36f39f4c-dd85-4ef7-a8aa-0d147fb9e7ba" />
-<img width="1068" height="400" alt="Screenshot 2026-03-29 221956" src="https://github.com/user-attachments/assets/d2a890cd-f9ba-4037-bd5d-8f9660a743bc" />
-<img width="1194" height="432" alt="Screenshot 2026-03-29 222009" src="https://github.com/user-attachments/assets/ad6dd0ef-f754-445f-b255-6007e68719e6" />
-<img width="1232" height="439" alt="Screenshot 2026-03-29 222021" src="https://github.com/user-attachments/assets/1de1279f-aa98-4b1b-8b14-8420aaf7186e" />
-<img width="1060" height="666" alt="Screenshot 2026-03-30 121907" src="https://github.com/user-attachments/assets/c357ffae-4e2b-4281-bda9-cbc1ab41ff7d" />
-<img width="1066" height="566" alt="Screenshot 2026-03-30 224457" src="https://github.com/user-attachments/assets/8fdec064-170b-4c32-893a-dfacd5d6df82" />
-<img width="979" height="486" alt="Screenshot 2026-03-30 224657" src="https://github.com/user-attachments/assets/04503e2f-9948-4474-9ac1-af018d0e3999" />
-<img width="978" height="448" alt="Screenshot 2026-03-30 225142" src="https://github.com/user-attachments/assets/c971a154-60bf-4bb2-8e87-9064e33e1cbf" />
-<img width="863" height="922" alt="Screenshot 2026-03-31 003157" src="https://github.com/user-attachments/assets/420d1e47-67d0-4408-8163-62cdf7ba919a" />
-<img width="695" height="451" alt="Screenshot 2026-03-31 003206" src="https://github.com/user-attachments/assets/2a718738-9220-460a-99c9-2b3fd3aa8395" />
-<img width="1063" height="579" alt="Capture" src="https://github.com/user-attachments/assets/82e46cdd-8453-4aed-b7d1-b56cdf37d7f8" />
-<img width="809" height="861" alt="Screenshot 2026-03-31 004604" src="https://github.com/user-attachments/assets/13f80862-053c-4a85-ac4d-f42c1ffa7453" />
+<img width="1331" height="750" alt="Screenshot1" src="https://github.com/user-attachments/assets/33646d45-c6cf-47e5-a285-8025913f17aa" />
+<img width="1194" height="432" alt="Screenshot2" src="https://github.com/user-attachments/assets/2c27fe2f-b861-4f24-8e34-827d28aeb639" />
+<img width="1232" height="439" alt="Screenshot3" src="https://github.com/user-attachments/assets/0c3fe98e-a328-4ff6-9568-aeffb2ee9e7e" />
+<img width="1060" height="666" alt="Screenshot4" src="https://github.com/user-attachments/assets/80c38fd2-de66-445d-ac65-0729196a0f4a" />
+<img width="1066" height="566" alt="Screenshot5" src="https://github.com/user-attachments/assets/bfe67674-1653-4b3e-83e4-d2c8f190619c" />
+<img width="979" height="486" alt="Screenshot6" src="https://github.com/user-attachments/assets/7f01facc-de67-43b8-bc03-87a50afd6b25" />
+<img width="978" height="448" alt="Screenshot7" src="https://github.com/user-attachments/assets/9f5f5db4-90c9-44f1-8f87-15f170176192" />
+
 
 
 # Bom
