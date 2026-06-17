@@ -15,6 +15,13 @@ My this keyboard is equiped with 89 keys, 1 rotary encoder switch and 0.91" OLED
 <img width="978" height="448" alt="Screenshot7" src="https://github.com/user-attachments/assets/9f5f5db4-90c9-44f1-8f87-15f170176192" />
 
 
+# Cart
+
+<img width="1063" height="579" alt="cart1" src="https://github.com/user-attachments/assets/561de4c5-2db7-4329-8b04-42a653ce46c3" />
+<img width="863" height="922" alt="cart2" src="https://github.com/user-attachments/assets/ecf804fa-7bbe-47b4-ae55-65c8809ff5b4" />
+<img width="695" height="451" alt="cart3" src="https://github.com/user-attachments/assets/fe0ab65e-2a69-4fd3-8a44-236bc741e3d4" />
+
+
 
 # Bom
 
