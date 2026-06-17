@@ -1,6 +1,6 @@
 # ChapBoard
 
-As my final exams are over and I've nothing to do untill last week of april so I utlized that time in upgrading my skill, I'm on my PC all the time and in thses time I've made this keyboard.
+As my final exams are over and I've nothing to do untill last week of june so I utlized that time in upgrading my skill, I'm on my PC all the time and in thses time I've made this keyboard.
 
 My this keyboard is equiped with 89 keys, 1 rotary encoder switch and 0.91" OLED display. In this I've used Raspberry Pi Pico 2W. I used this microcontroller because I guess it will be good because it has just enough GPIO pins for the key matrix + OLED and rotary encoder, and the 2W version of the Pico has wireless through the help of bluetooth if I decide to add that functionality in the future. For the case It has 2 separate printed pieces. The base, where the PCB sits, and the top cover, which protects the PCB. and I'll modify the CAD when I get more exact mesurments when the PCB will arrive!!
 
